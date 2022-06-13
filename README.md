@@ -26,7 +26,7 @@ You can order the board by clicking this PCBWay link ***(disclosure: I do receiv
 If you want to support me and receive a $5 credit if you are a new PCBWay user, please consider using my [PCBWay Referral Link](https://www.pcbway.com/setinvite.aspx?inviteid=542484). 
 
 Order with the following options:
-- 1.0mm Thickness
+- 1.2mm Thickness
 - ENIG Surface Finish (HASL will oxidize over time and button conductivity will decrease)
 - Any color Solder Mask
 
