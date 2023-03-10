@@ -20,13 +20,13 @@ You will need to transfer components from a working Game Boy Color for this PCB 
 
 I have personally tested this PCB and successfully created a working SZ Pocket Color using components from an OEM **CGB-CPU-04**. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will be providing limited technical support for any issues you may have.***
 
+If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
+
 # Purchase
 
 This PCB will only be made available through my Etsy and/or Ko-fi shop; gerbers/source files will not be released.  
 
 https://ko-fi.com/skimzor
-
-If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
 # PCB Bill of Materials & Assembly
 
