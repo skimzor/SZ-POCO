@@ -47,7 +47,11 @@ In addition to the donor Game Boy Color, you will need the following items to ma
 - **Game Boy Pocket Lens:** Recommendation is to get a Game Boy Pocket glass lens [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses-1)
 - **Game Boy Pocket Battery Contacts:** You will need Game Boy Pocket battery contact terminals as the Game Boy Color ones will not fit [(Link)](https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 )
 
-# DC/DC Regulator
+# DC Power Board
+
+You are able to use the OEM DC/DC Regulator Board with the SZ Pocket Color; however, there are more modern options suggested below:
+
+- 
 
 # License
 
