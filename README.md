@@ -40,10 +40,8 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
 
-- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with a Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO)
-  - https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228
-- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim
-  - https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut
+- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with a Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO) [Link](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
+- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim [Link](https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut)
 - **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones; however, any Game Boy Pocket buttons will work. 
   - https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc
   - https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons
