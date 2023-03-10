@@ -7,6 +7,7 @@ This PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket w
 
 - 4-Layer Board with GND and PWR Planes
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
+- IR blasters placed in a useable position
 - Option for tactile buttons on the directional pad, A/B, and start/select buttons
 
 # Disclaimer
