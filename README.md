@@ -8,7 +8,7 @@ Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color
 - 4-Layer Board with GND and PWR Planes
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
 - IR blasters placed in a useable position
-- Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture is of an old revision)
+- Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision)
 
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
@@ -40,9 +40,6 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 - miketf1#1462 for agreeing to handle all technical support and troubleshooting issues for this project.
 - [gekkio](https://gekkio.fi/) for the CPU, RAM, Link Port [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs) and overall contributions to the Game Boy community.
-- [HDR](https://martinrefseth.com/) for compiling schematics, list of components, and board scans and their overall contributions to the Game Boy community.
-- Krystalize for the [CGB board scans](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/).
-- [Zekfoo](https://github.com/Zekfoo) for the inspiration for this project through their creation of the AGZ/CGZ/gbaHD-AIO.
 - Various members of the Game Boy Discord community who helped troubleshoot/brainstorm ideas.
 
 # License
