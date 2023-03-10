@@ -6,9 +6,8 @@ This PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket w
 # Features
 
 - 4-Layer Board with GND and PWR Planes
-- Customizable PCB Mask Color (through PCBWay)
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
-- Option for tactile buttons on the directional pad and A/B buttons
+- Option for tactile buttons on the directional pad, A/B, and start/select buttons
 
 # Disclaimer
 You will need to transfer components from a working Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
