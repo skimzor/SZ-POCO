@@ -29,9 +29,9 @@ The SZ Pocket Color PCB will be available for purchase through Ko-fi and Etsy
 - [Ko-fi](https://ko-fi.com/skimzor)
 - Etsy
 
-You can also order the boards through PCBWay as a shared project. Link
+You can also order the boards through PCBWay as a shared project. 
 
-**Gerbers/source files will not be released.**  
+- PCBWay
 
 # PCB Bill of Materials & Assembly
 
