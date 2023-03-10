@@ -7,8 +7,8 @@ Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color
 
 - 4-Layer Board with GND and PWR Planes
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
-- IR blasters placed in a useable position
-- Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision)
+- IR blasters relocated to where the contrast wheel would normally sit in the Game Boy Pocket 
+- Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision of the PCB)
 
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
@@ -28,7 +28,7 @@ https://ko-fi.com/skimzor
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
-# Bill of Materials & Assembly
+# PCB Bill of Materials & Assembly
 
 As mentioned above in the disclaimer, assembly of this PCB requires advance soldering experience and ability to self-troubleshoot any issues.
 
