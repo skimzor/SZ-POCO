@@ -1,4 +1,4 @@
-# SZ-POCO PCB
+# SZ Pocket Color PCB
 Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket. Based on the schematics found in the CGB Service Manual, I created a this PCB in KiCad. 
 
 ![](images/sz-poco_complete.jpeg)
@@ -32,7 +32,7 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 
 As mentioned above in the disclaimer, assembly of this PCB requires advance soldering experience and ability to self-troubleshoot any issues.
 
-Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working pocket color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, RAM, Crystal, etc.). 
+Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working SZ Pocket Color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, Crystal, etc.). 
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
