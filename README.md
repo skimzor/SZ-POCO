@@ -9,6 +9,7 @@ Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
 - IR blasters relocated to where the contrast wheel would normally sit in the Game Boy Pocket 
 - Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision of the PCB)
+- Reduced component transfer from donor Game Boy Color
 
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
@@ -40,6 +41,8 @@ As mentioned above in the disclaimer, assembly of this PCB requires advance sold
 Since this PCB uses the original CGB schematics, you are able to directly transplant components from a donor console to create a working SZ Pocket Color.  Components can also be ordered through an electronic components distributor (e.g. digikey, mouser, etc.) and can be found in the Bill of Materials (BOM) unless otherwise noted as required from the donor CGB (e.g. CGB CPU, Crystal, etc.). 
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
+
+Additionally, not all components from the 
 
 # Additional Parts
 
