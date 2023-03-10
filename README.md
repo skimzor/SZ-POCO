@@ -50,7 +50,7 @@ In addition to the donor Game Boy Color, you will need the following items to ma
 - **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones; however, any Game Boy Pocket buttons will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc) / [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons)
 - **Game Boy Pocket Membranes:** Again, it is recommended to get Funnyplaying Game Boy Pocket membranes; however, any Game Boy Pocket membranes will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-pocket-silicone-button-contact-pad-membranes)
 - **Game Boy Pocket Lens:** Recommendation is to get a Game Boy Pocket glass lens [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses-1)
-- **Game Boy Pocket Battery Contacts:** You will need Game Boy Pocket battery contact terminals as the Game Boy Color ones will not fit [(Link)](https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 )
+- **Game Boy Pocket Battery Terminals:** You will need Game Boy Pocket battery terminals as the Game Boy Color ones will not fit [(Link)](https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 )
 
 # DC Power Board
 
