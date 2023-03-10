@@ -39,7 +39,8 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 # Additional Items
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
-- 
+
+- IPS Kit
 
 
 
