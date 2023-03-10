@@ -51,7 +51,7 @@ In addition to the donor Game Boy Color, you will need the following items to ma
 
 You are able to use the OEM DC/DC Regulator Board with the SZ Pocket Color; however, there are more modern options suggested below:
 
-- [marshalllh's GBPP](https://github.com/marshallh/gbpp)
+- [marshallh's GBPP](https://github.com/marshallh/gbpp)
 - [leggomyfroggo's frogulator](https://www.etsy.com/shop/FroggoCustoms?ref=nla_listing_details)
 
 # License
