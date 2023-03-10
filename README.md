@@ -24,7 +24,7 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 
 # Purchase
 
-This PCB will only be made available through my Etsy and/or Ko-fi shop; gerbers/source files will not be released.  
+This PCB will only be made available through my Etsy and/or Ko-fi shop. Gerbers/source files will not be released.  
 
 https://ko-fi.com/skimzor
 
