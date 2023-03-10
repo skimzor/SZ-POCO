@@ -38,9 +38,10 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 # Additional Parts
 
-In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
+In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code "discord" for 10% off your order.
 
-- **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit for the SZ Pocket Color build; any other Game Boy Color IPS kit **will not work**: https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228
+- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with OSD function
+  - https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228
 - **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell; however, you can use any additional shells 
 - **Game Boy Pocket Buttons:**
 - **Game Boy Pocket Membranes:**
