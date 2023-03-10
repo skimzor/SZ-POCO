@@ -42,13 +42,13 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
-Additionally, not all components from the 
+Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those additional voltage rails have been removed from the SZ Pocket Color.
 
 # Additional Parts
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
 
-- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with a Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO).  Any other IPS Kit will not work. [(Link)](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
+- **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit with Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO).  Any other IPS Kit will not work; OEM Game Boy Color screens will not work either. [(Link)](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
 - **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut)
 - **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones; however, any Game Boy Pocket buttons will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc) / [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons)
 - **Game Boy Pocket Membranes:** Again, it is recommended to get Funnyplaying Game Boy Pocket membranes; however, any Game Boy Pocket membranes will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-pocket-silicone-button-contact-pad-membranes)
