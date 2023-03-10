@@ -36,11 +36,12 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
-# Credit and Thanks
+# Additional Items
 
-- miketf1#1462 for agreeing to handle all technical support and troubleshooting issues for this project.
-- [gekkio](https://gekkio.fi/) for the CPU, RAM, Link Port [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs) and overall contributions to the Game Boy community.
-- Various members of the Game Boy Discord community who helped troubleshoot/brainstorm ideas.
+In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
+- 
+
+
 
 # License
 
