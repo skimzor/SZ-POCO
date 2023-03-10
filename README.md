@@ -22,7 +22,7 @@ I have personally tested this PCB and successfully created a working SZ Pocket C
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
-# Purchase
+# Purchase and Ordering
 
 The SZ Pocket Color PCB will be available for purchase through Ko-fi and Etsy 
 
