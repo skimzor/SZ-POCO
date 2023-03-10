@@ -1,6 +1,5 @@
 # SZ Pocket Color PCB
-Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket. Based on the schematics found in the CGB Service Manual, I created a this PCB in KiCad. 
-
+Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color into the form-factor of a Game Boy Pocket.
 ![](images/sz-poco_complete.jpeg)
 
 # Features
