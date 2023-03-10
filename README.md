@@ -24,9 +24,13 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 
 # Purchase
 
-This PCB will only be made available through my Etsy and/or Ko-fi shop. Gerbers/source files will not be released.  
+The SZ Pocket Color PCB will be available for purchase through my Etsy and/or Ko-fi shop. 
 
 https://ko-fi.com/skimzor
+
+You can also order the boards through the
+
+Gerbers/source files will not be released.  
 
 # PCB Bill of Materials & Assembly
 
