@@ -20,7 +20,7 @@ You will need to transfer components from a working Game Boy Color for this PCB 
 
 I have personally tested this PCB and successfully created a working SZ Pocket Color using components from an OEM **CGB-CPU-04**. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will be providing limited technical support for any issues you may have.***
 
-# Ordering
+# Purchase
 
 This PCB will only be made available through my Etsy and/or Ko-fi shop; gerbers/source files will not be released.  
 
@@ -40,8 +40,8 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
 
-- **Game Boy Color IPS Kit:**
-- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell so that you do not have to 
+- **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit for the SZ Pocket Color build; any other Game Boy Color IPS kit **will not work**: https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228
+- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell; however, you can use any additional shells 
 - **Game Boy Pocket Buttons:**
 - **Game Boy Pocket Membranes:**
 - **Game Boy Pocket Lens:**
