@@ -40,9 +40,11 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
 
-- Game Boy Pocket Shell: 
-- IPS Kit
-
+- **Game Boy Pocket Shell:**
+- **Game Boy Pocket Buttons:**
+- **Game Boy Pocket Membranes:**
+- **Game Boy Pocket Lens:**
+- **Game Boy Color IPS Kit:**
 
 
 # License
