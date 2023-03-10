@@ -36,10 +36,11 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
-# Additional Items
+# Additional Parts
 
 In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color
 
+- Game Boy Pocket Shell: 
 - IPS Kit
 
 
