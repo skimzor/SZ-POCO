@@ -38,16 +38,21 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 # Additional Parts
 
-In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code "discord" for 10% off your order.
+In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
 
-- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with OSD function
+- **Game Boy Color IPS Kit:** You will need a Game Boy Color IPS Kit with a Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO)
   - https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228
-- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell; however, you can use any additional shells 
-- **Game Boy Pocket Buttons:**
-- **Game Boy Pocket Membranes:**
-- **Game Boy Pocket Lens:**
-- **Game Boy Pocket Battery Contacts:**
-
+- **Game Boy Pocket Shell:** It is recommended to get the Funnyplyaing IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim
+  - https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut
+- **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones; however, any Game Boy Pocket buttons will work. 
+  - https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc
+  - https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons
+- **Game Boy Pocket Membranes:** Again, it is recommended to get Funnyplaying Game Boy Pocket membranes; however, any Game Boy Pocket membranes will work
+  - https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-pocket-silicone-button-contact-pad-membranes
+- **Game Boy Pocket Lens:** Recommendation is to get a Game Boy Pocket glass lens. Do not get the 2.2" TFT lenses.
+  - https://retrogamerepairshop.com/collections/gbp-lenses-1
+- **Game Boy Pocket Battery Contacts:** You will need Game Boy Pocket battery contact terminals as the Game Boy Color ones will not fit.
+  - https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 
 
 
 # License
