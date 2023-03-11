@@ -28,11 +28,11 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 The SZ Pocket Color PCB will be available for purchase through Ko-fi and Etsy:
 
 - [Ko-fi](https://ko-fi.com/skimzor)
-- Etsy
+- Etsy *(coming soon)*
 
 You can also order the boards through PCBWay as a shared project (in any color you want):
 
-- PCBWay
+- PCBWay *(coming soon)*
 
 # PCB Bill of Materials & Assembly
 
@@ -59,7 +59,7 @@ In addition to the donor Game Boy Color, you will need the following items to ma
 
 You are able to use the OEM Game Boy Color DC/DC Regulator Board with the SZ Pocket Color; however, there are modern options suggested below:
 
-- skimzor's SZ-REG
+- skimzor's SZ-REG *(coming soon)*
 - [marshallh's GBPP](https://github.com/marshallh/gbpp)
 - [leggomyfroggo's frogulator](https://www.etsy.com/shop/FroggoCustoms?ref=nla_listing_details)
 
