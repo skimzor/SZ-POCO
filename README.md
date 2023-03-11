@@ -42,7 +42,7 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R2 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
-Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails have been removed from the SZ Pocket Color and do not need to be transplanted from the donor console.
+Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails do not need to be transplanted.
 
 # Additional Parts
 
