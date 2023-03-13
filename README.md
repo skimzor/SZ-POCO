@@ -9,7 +9,7 @@ Introducing the SZ Pocket Color or SZ-POCO, this PCB transforms a Game Boy Color
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
 - IR blasters relocated to where the contrast wheel would normally sit in the Game Boy Pocket 
 - Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision of the PCB)
-- Reduced component transfer from donor Game Boy Color
+- Reduced component transfer from donor Game Boy Color console
 
 ![](images/pcb_front.JPEG)
 ![](images/pcb_back.JPEG)
@@ -42,7 +42,7 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-POCO PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-POCO, R3 from the donor PCB goes to R3 on SZ-POCO, etc). Please verify orientation/polarity of components before soldering.
 
-Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails have been removed from the SZ Pocket Color.
+Additionally, not all components from the donor Game Boy Color will be used. The SZ Pocket Color can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails have been omitted from the SZ Pocket Color PCB.
 
 # Additional Parts
 
@@ -50,7 +50,7 @@ In addition to the donor Game Boy Color, you will need the following items to ma
 
 - **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit with Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO).  Any other Game Boy Color IPS Kit will not work; OEM Game Boy Color screens will not work either. [(Link)](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
 - **Game Boy Pocket Shell:** It is recommended to get the Funnyplaying IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim it to fit the LCD [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut)
-- **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones; however, any Game Boy Pocket buttons will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc) / [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons)
+- **Game Boy Pocket Buttons:** RetroCNC Game Boy Pocket Buttons are my personal recommendation, but if you want plastic buttons it is recommended to get Funnyplaying ones. Again, any Game Boy Pocket buttons will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/game-boy-pocket-metal-buttons-by-retrocnc) / [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-custom-pocket-buttons)
 - **Game Boy Pocket Membranes:** Again, it is recommended to get Funnyplaying Game Boy Pocket membranes; however, any Game Boy Pocket membranes will work [(Link)](https://retrogamerepairshop.com/collections/gbp-buttons-1/products/funnyplaying-game-boy-pocket-silicone-button-contact-pad-membranes)
 - **Game Boy Pocket Lens:** Recommendation is to get a Game Boy Pocket glass lens [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses-1)
 - **Game Boy Pocket Battery Terminals:** You will need Game Boy Pocket battery terminals as the Game Boy Color ones will not fit [(Link)](https://retrogamerepairshop.com/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?_pos=3&_sid=2c6c2a553&_ss=r&variant=37893131305132 )
