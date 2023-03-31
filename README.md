@@ -45,7 +45,7 @@ Additionally, not all components from the donor Game Boy Color will be used. The
 
 # Additional Parts
 
-In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
+In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Pocket Color.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"makho"** for 10% off your order.
 
 - **Game Boy Color IPS Kit:** You will need the following Game Boy Color IPS Kit with Q5 LCD and OSD Driver Board (usually named one-chip or HISPEEDIDO).  Any other Game Boy Color IPS Kit will not work; OEM Game Boy Color screens will not work either. [(Link)](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-q5-ips-backlight-with-osd?variant=37646279213228) 
 - **Game Boy Pocket Shell:** It is recommended to get the Funnyplaying IPS-Ready Game Boy Pocket shell. You can use any Game Boy Pocket shell but be prepared to trim it to fit the LCD [(Link)](https://retrogamerepairshop.com/collections/gbp-lenses/products/funnyplaying-game-boy-pocket-q5-ips-ready-shell-housing-no-cut)
